@@ -3,4 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - pillow
+  - pillow=9.5.0
